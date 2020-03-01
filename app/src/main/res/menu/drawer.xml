@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/wheel"
+            android:icon="@drawable/ic_wheelchair"
+            android:title="Wheelchair" />
+        <item
+            android:id="@+id/wheel1"
+            android:icon="@drawable/ic_wheelchair"
+            android:title="Wheelchair1" />
+        <item
+            android:id="@+id/wheel2"
+            android:icon="@drawable/ic_wheelchair"
+            android:title="Wheelchair2" />
+    </group>
+    <item android:title="Wózki">
+        <menu>
+            <item android:id="@+id/wheel3"
+                android:icon="@drawable/ic_wheelchair"
+                android:title="Wheelchair3"/>
+            <item android:id="@+id/wheel4"
+            android:icon="@drawable/ic_wheelchair"
+            android:title="Wheelchair4"/>
+        </menu>
+    </item>
+
+</menu>

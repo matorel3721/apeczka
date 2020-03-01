@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+
+        android:id="@+id/nav_wheel1"
+        android:icon="@drawable/ic_wheelchair"
+        android:title="Inwalida" />
+    <item
+
+        android:id="@+id/nav_wheel2"
+        android:icon="@drawable/ic_wheelchair"
+        android:title="Wheel2" />
+    <item
+
+        android:id="@+id/nav_wheel3"
+        android:icon="@drawable/ic_wheelchair"
+        android:title="Wheel3" />
+    <item
+
+        android:id="@+id/nav_wheel4"
+        android:icon="@drawable/ic_wheelchair"
+        android:title="Wheel4" />
+
+</menu>

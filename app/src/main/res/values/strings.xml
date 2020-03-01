@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nav_drawer_open">Open Nav Drawer</string>
+    <string name="nav_drawer_close">Close Nav Drawer</string>
+    <string name="imie"></string>
+    <string name="nazw"></string>
+</resources>
